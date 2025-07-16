@@ -2,7 +2,7 @@
 
 En - This repository contains my practical exercises from the <b>HTML</b> course at [Codedex](https://www.codedex.io/). Each folder represents an individual project that reinforces different aspects of the <b>HTML</b> language.
 
-Es - Este repositorio contiene mis ejercicios prácticos del curso de HTML en [Codedex](https://www.codedex.io/). Cada carpeta representa un proyecto individual que refuerza diferentes aspectos del lenguaje HTML.
+Es - Este repositorio contiene mis ejercicios prácticos del curso de <b>HTML</b> en [Codedex](https://www.codedex.io/). Cada carpeta representa un proyecto individual que refuerza diferentes aspectos del lenguaje <b>HTML</b>.
 
 ---
 
@@ -17,10 +17,9 @@ Es - Este repositorio contiene mis ejercicios prácticos del curso de HTML en [C
 
 ## 💡 Objective / Objetivo
 
-Practice HTML by creating small projects while learning structure, tags, best practices, and basic layout.
+En: Practice <b>HTML</b> by creating small projects while learning structure, tags, best practices, and basic layout.
 
----
-Practicar HTML creando pequeños proyectos mientras aprendo estructura, etiquetas, buenas prácticas y maquetación básica.
+Es: Practicar <b>HTML</b> creando pequeños proyectos mientras aprendo estructura, etiquetas, buenas prácticas y maquetación básica.
 
 
 ---
