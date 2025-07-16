@@ -1,7 +1,9 @@
-# 🌐 HTML Learning
+## 🌐 HTML Learning
 
 This repository contains my practical exercises from the HTML course at [Codedex](https://www.codedex.io/). Each folder represents an individual project that reinforces different aspects of the HTML language.
 ---
+## 🌐 Aprendizaje de HTML 
+
 Este repositorio contiene mis ejercicios prácticos del curso de HTML en [Codedex](https://www.codedex.io/). Cada carpeta representa un proyecto individual que refuerza diferentes aspectos del lenguaje HTML.
 
 ---
