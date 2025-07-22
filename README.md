@@ -12,6 +12,8 @@
 2. 🌿 [Ex02 - Elemental](./Ex02-Elemental/)
 3. 📰 [Ex03 - Newspaper](./Ex03-Newspaper/)
 4. 🏢 [Ex04 - Corporate Talk](./Ex04-Corporate-Talk/)
+5. 🧁 [Ex05 - Sous chef](./Ex05-Sous-Chef/)
+6. 🦒 [Ex06 - Lost pet](./Ex06-lost%20pet/)
 
 ---
 
